@@ -20,6 +20,7 @@ langsmith==0.10.10
 
 # --- Tools & Document Processing (RAG) ---
 duckduckgo-search==8.1.1
+ddgs
 pypdf==6.14.2
 faiss-cpu==1.14.3
 sentence-transformers==5.6.1
